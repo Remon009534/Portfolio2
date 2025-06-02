@@ -5,6 +5,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+::selection
+{
+    background-color: #EA0029;
+    color: white;
+}
 /* .box3
 {
     background-color: #101820;
@@ -13,10 +18,6 @@
 body
 {
     background-color: #101820;
-    /* background-color: #CFD2D3; */
-    /* background-color: #222f3e; */
-    /* background-color: #0D0C0C; */
-  
 }
 .navbar button
 {
